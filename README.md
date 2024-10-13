@@ -1,6 +1,6 @@
 # Deep Learning
 
-![deep_learning_img](deep_learning_img.jpg)
+![deep_learning_img](images/deep_learning_img.jpg)
 
 ## Table of Contents
 
